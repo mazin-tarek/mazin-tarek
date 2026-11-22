@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Mobile Application Developer | Flutter & Android<br><br>I'm a Mobile Application Developer passionate about building app-dev,<br>I focus on writing clean, maintainable code and creating reliable applications with great user experiences.<br><br>I'm Working On<br><br>Developing mobile applications using Flutter<br>Exploring native Android development.<br>Building applications with clean and maintainable architecture<br><br>Backend & Integration<br><br>REST APIs<br>Firebase<br><br>Architecture & Tools<br><br>Clean Architecture<br>Git & GitHub
 
 ## 🌐 Socials:
